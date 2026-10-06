@@ -1,4 +1,4 @@
-# Analytics-Portfolio | Victoria Emmanuella — Senior Data Analytics & Predictive Modelling (20+ Yrs)
+# Analytics-Portfolio | Adheke Emmanuel — Senior Data Analytics & Predictive Modelling (20+ Yrs)
 
 ### 🔥 SCREAMING HEADLINE: 11 Commercial-Scale Projects | N30B+ Revenue Models Validated | 10+ ML Models Deployed
 
