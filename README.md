@@ -3,14 +3,14 @@
 ### 🔥 SCREAMING HEADLINE: 11 Commercial-Scale Projects | N30B+ Revenue Models Validated | 10+ ML Models Deployed
 
 **VERIFY SOURCE FILES (Click to open - code & charts visible):**
-- `01_Predictive_Modelling_Forecasting_Clustering.ipynb`
+- `01_Predictive_Modelling_Forecasting_Clustering.ipynb.ipynb`
 - `02_Data_Analyst_Prospect_Evaluation.ipynb`
 - `03_StartUps_Telemedicine_ISP_VDT.ipynb`
 - `04_SARO_Agric_Retail_Forecast.ipynb.ipynb`
 
 ---
 ### HEADLINE 1: PREDICTIVE MODELLING, FORECASTING & CLUSTERING - 7 Projects
-File: `01_Predictive_Modelling_Forecasting_Clustering.ipynb`
+File: `01_Predictive_Modelling_Forecasting_Clustering.ipynb.ipynb`
 
 ### HEADLINE 2: DATA ANALYST - PROSPECT EVALUATION & MARKET ANALYSIS
 File: `02_Data_Analyst_Prospect_Evaluation.ipynb`
