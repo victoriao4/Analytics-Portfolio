@@ -1,4 +1,4 @@
-# Analytics-Portfolio | Victoria Emmanuella — Senior Data Analytics & Predictive Modelling (8+ Yrs)
+# Analytics-Portfolio | Victoria Emmanuella — Senior Data Analytics & Predictive Modelling (20+ Yrs)
 
 ### 🔥 SCREAMING HEADLINE: 11 Commercial-Scale Projects | N30B+ Revenue Models Validated | 10+ ML Models Deployed
 
@@ -18,7 +18,7 @@ File: `02_Data_Analyst_Prospect_Evaluation.ipynb`
 ### HEADLINE 3: START-UPS - TELEMEDICINE + ISP-VDT COMMERCIAL VIABILITY (N21.66B + N3.75B)
 File: `03_StartUps_Telemedicine_ISP_VDT.ipynb`
 
-### HEADLINE 4: SARO AGRIC - RETAIL FORECAST (Rice/Poultry)
+### HEADLINE 4: SARO AGRIC - RETAIL FORECAST (Crops)
 File: `04_SARO_Agric_Retail_Forecast.ipynb.ipynb`
 ## 🛠️ Tech Stack & Architecture
 * **Core Languages:** Python (Pandas, NumPy, SciPy)
